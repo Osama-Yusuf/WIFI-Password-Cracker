@@ -12,10 +12,18 @@ You can take a look at the [GitHub project page](https://github.com/Osama-Yusuf/
 
 ## Getting started
 
-Download the script manually and give it execution permission using this command: (recommended)
+Download the script and give it execution permission using this command:
 
 ```bash
 curl "https://raw.githubusercontent.com/Osama-Yusuf/WIFI-Password-Cracker/main/crack_wifi.sh" -o crack_wifi.sh && chmod +x crack_wifi.sh
+```
+
+### For Windows you have to open git bash as administrator then:
+
+Download the script and give it execution permission using this command:
+
+```bash
+curl "https://raw.githubusercontent.com/Osama-Yusuf/WIFI-Password-Cracker/main/win-crack_wifi.sh" -o win-crack_wifi.sh && chmod +x win-crack_wifi.sh
 ```
 
 ## Usage
