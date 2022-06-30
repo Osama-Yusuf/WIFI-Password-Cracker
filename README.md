@@ -44,9 +44,15 @@ or
 source crack_wifi.sh
 ```
 
+### Note: that for windows you need to have the following requirments:
+
+1- Aircrack-ng installed, You can download it from: https://www.aircrack-ng.org/
+2- you need to have a handshake capture file (.cap), you can capture it on windows by using commview, To achive this requirement watch this: https://youtu.be/2BffQsIDh48
+
 ## Tested Environments
 
 * Ubuntu Os.
+* Windows 11.
 
 If you have successfully tested this script on others systems or platforms please let me know!
 
