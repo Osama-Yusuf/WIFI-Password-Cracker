@@ -23,7 +23,7 @@ curl "https://raw.githubusercontent.com/Osama-Yusuf/WIFI-Password-Cracker/main/c
 Download the script and give it execution permission using this command:
 
 ```bash
-curl "https://raw.githubusercontent.com/Osama-Yusuf/WIFI-Password-Cracker/main/win-crack_wifi.sh" -o win-crack_wifi.sh && chmod +x win-crack_wifi.sh
+curl "https://raw.githubusercontent.com/Osama-Yusuf/WIFI-Password-Cracker/main/win_crack_wifi.sh" -o win_crack_wifi.sh && chmod +x win_crack_wifi.sh
 ```
 
 ## Usage
@@ -57,13 +57,13 @@ source crack_wifi.sh
 Copy it to the binaries folder to run it as a command without the extension (.sh)
 
 ```
-sudo cp win-crack_wifi.sh /usr/bin/crack-wifi
+sudo cp win_crack_wifi.sh /usr/bin/crack-wifi
 ```
 
 You can delete the script now if you want.
 
 ```
-rm -f win-crack_wifi.sh
+rm -f win_crack_wifi.sh
 ```
 
 Then execute the script and let it do all the work:
