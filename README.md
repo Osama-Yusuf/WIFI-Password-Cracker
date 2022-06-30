@@ -52,6 +52,32 @@ or
 source crack_wifi.sh
 ```
 
+### For Windows after downloading the script from git bash:
+
+Copy it to the binaries folder to run it as a command without the extension (.sh)
+
+```
+sudo cp win-crack_wifi.sh /usr/bin/crack-wifi
+```
+
+You can delete the script now if you want.
+
+```
+rm -f win-crack_wifi.sh
+```
+
+Then execute the script and let it do all the work:
+
+```
+crack-wifi
+```
+
+or
+
+```
+source win-crack_wifi.sh
+```
+
 ### Note: that for windows you need to have the following requirments:
 
 1- Aircrack-ng installed, You can download it from: https://www.aircrack-ng.org/
